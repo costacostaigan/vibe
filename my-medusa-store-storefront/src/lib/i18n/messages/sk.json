@@ -1,0 +1,386 @@
+{
+  "modules": {
+    "layout": {
+      "store_name": "Vibe",
+      "nav": {
+        "menu": "Menu",
+        "home": "Domov",
+        "account": "Účet",
+        "cart": "Košík",
+        "store": "Obchod",
+        "lingerie": "Dámska bielizeň",
+        "roots": "Korzety",
+        "categories": "Kategórie",
+        "collections": "Kolekcie",
+        "customer_care": "Zákaznícka podpora",
+        "shipping_to": "Doručovanie do",
+        "language": {
+          "title": "Jazyk",
+          "en": "Angličtina",
+          "sk": "Slovenčina"
+        },
+        "policy": {
+          "withdrawal_form": "Formulár na odstúpenie od zmluvy",
+          "complaint_form": "Reklamačný formulár",
+          "complaints_procedure": "Reklamačný poriadok",
+          "general_terms_and_conditions": "Všeobecné obchodné podmienky",
+          "principles": "Zasady spracuvania a ochrany Osobných údajov a poučenie o cookies"
+        },
+        "community": {
+          "title": "Pridajte sa do našej komunity",
+          "description": "Pridajte sa do nášho zoznamu na sociálnych sieťach pre najnovšie novinky, skorý prístup a exkluzívy."
+        }
+      },
+      "cart": {
+        "label": "Košík ({amount})",
+        "quantity": "Množstvo",
+        "variant": "Varianta",
+        "original": "Originál",
+        "remove": "Odstrániť",
+        "taxes": "(bez daní)",
+        "subtotal": "Medzisúčet",
+        "go_to_cart": "Prejsť do košíka",
+        "is_empty": "Váš nákupný košík je prázdny",
+        "go_to_products": "Prejsť na stránku všetkých produktov",
+        "explore_products": "Preskúmať produkty"
+      },
+      "rights": "@ {year} Vibe Store. Všetky práva vyhradené."
+    },
+    "home": {
+      "title": "Niekoľko slov o nás",
+      "subtitle": "Každý detail – pre vašu krásu a pohodlie."
+    },
+    "featured_products": {
+      "popular": "Populárne",
+      "all": "Zobraziť všetko"
+    },
+    "faq": {
+      "payment_delivery": "Platba a Doručenie",
+      "delivery": {
+        "question": "Doručenie",
+        "answer": "Doručenie našich tovarov je po celej Slovensku a Európe. Pri platbe si môžete vybrať prepravnú spoločnosť, ktorá vám najviac vyhovuje."
+      },
+      "methods_of_payments": {
+        "question": "Spôsoby platby",
+        "answer": "Platba za naše tovary prebieha online cez PayPal."
+      },
+      "refund": {
+        "question": "Refundácia",
+        "answer": "V našom obchode neponúkame refundácie.\nPonúkame vám krásne sety dobrej kvality, každý set poskytuje tabuľku veľkostí. Pred objednaním si niekoľkokrát skontrolujte svoju veľkosť, aby ste potom nemali s ňou problémy. Ak máte akékoľvek otázky alebo si nie ste istí svojou veľkosťou, vždy môžete napísať na našu stránku na Instagrame."
+      }
+    },
+    "categories": {
+      "title": "Kategórie",
+      "all": "Zobraziť všetko"
+    },
+    "about": {
+      "title": "Sústredíme sa na kvalitu a moderné trendy",
+      "content_1": "Vitajte na VIBE, vašom online obchode s dámskym spodným prádlom! U nás nájdete široký výber každodenného a štýlového spodného prádla, ktoré vám zabezpečí pohodlie a sebadôveru v každom okamihu.",
+      "content_2": "Vo VIBE sa sústredíme na kvalitu a moderné trendy, aby ste si každý deň mohli užívať pocit výnimočnosti. Náš tím dbá na to, aby každý detail spĺňal najvyššie štandardy. Ďakujeme, že si vyberáte VIBE!",
+      "catalog": "Zobraziť katalóg",
+      "subtitle": "Naše telo je citlivé. Zachytáva každý pocit. Buďte k nemu láskaví."
+    },
+    "common": {
+      "cart-totals": {
+        "subtotal": "Medzisúčet",
+        "tooltip": "Celková hodnota košíka bez dopravy a daní.",
+        "discount": "Zľava",
+        "shipping": "Doprava",
+        "taxes": "Dane",
+        "gift_card": "Darčeková karta",
+        "total": "Spolu",
+        "select": "Vybrať"
+      },
+      "product": {
+        "tags": "Tagy",
+        "dimensions": "Rozmery",
+        "weight": "Hmotnosť",
+        "type": "Typ",
+        "country_of_origin": "Krajina pôvodu",
+        "material": "Materiál",
+        "size_table": "Tabuľky veľkostí",
+        "tabs": {
+          "product_information": "Informácie o produkte",
+          "shipping_returns": "Doprava a Vrátenie",
+          "fast_delivery": {
+            "title": "Rýchle Doručenie",
+            "description": "Vaša zásielka dorazí do 3-5 pracovných dní na vybranú prevzínovú miestnosť alebo priamo k vám domov."
+          },
+          "exchanges": {
+            "title": "Jednoduché Výměny",
+            "description": "Nepasuje vám? Žiadny problém – vymeníme váš produkt za nový."
+          }
+        },
+        "select_variant": "Vybrať variantu",
+        "out_of_stock": "Vyprodávané",
+        "add_to_cart": "Pridať do košíka",
+        "select_options": "Vybrať možnosti",
+        "select": "Vybrať",
+        "from_price": "Od",
+        "related_products": {
+          "title": "Súvisiace produkty",
+          "description": "Môžete si tiež pozrieť tieto produkty."
+        }
+      }
+    },
+    "store": {
+      "title": "Všetky produkty",
+      "filter": {
+        "sort": {
+          "title": "Zoradiť podľa",
+          "created_at": "Najnovšie príchody",
+          "price_asc": "Cena: od najnižšej",
+          "price_desc": "Cena: od najvyššej"
+        }
+      }
+    },
+    "account": {
+      "sign_in": {
+        "have_account": "Už máte účet?",
+        "welcome_back": "Vitajte späť",
+        "title": "Prihláste sa pre lepší zážitok.",
+        "sign_in": "Prihlásiť sa",
+        "not_member": "Nie ste členom? ",
+        "join_us": "Pridajte sa"
+      },
+      "register": {
+        "title": "Staňte sa členom Vibe Store",
+        "description": "Vytvorte si profil člena Vibe Store a získajte prístup k vylepšenému nákupnému zážitku.",
+        "policy": {
+          "title": "Vytvorením účtu súhlasíte s ",
+          "policy": "Zásadami ochrany osobných údajov",
+          "and": " a ",
+          "terms": "Podmienkami používania"
+        }
+      },
+      "inputs": {
+        "email": {
+          "label": "Email",
+          "title": "Zadajte platnú emailovú adresu."
+        },
+        "password": {
+          "label": "Heslo",
+          "old": "Staré heslo",
+          "new": "Nové heslo",
+          "confirm": "Potvrdiť heslo"
+        },
+        "first_name": {
+          "label": "Meno"
+        },
+        "last_name": {
+          "label": "Priezvisko"
+        },
+        "phone": {
+          "label": "Telefón"
+        },
+        "name": {
+          "label": "Meno"
+        },
+        "shipping": {
+          "title": "Doručovacia adresa",
+          "delivery": "Doručenie",
+          "edit": "Upraviť",
+          "to_payment": "Pokračovať k platbe",
+          "method": "Metóda"
+        },
+        "payment": {
+          "title": "Platba",
+          "edit": "Upraviť",
+          "enter_details": "Zadajte údaje o karte",
+          "method": "Spôsob platby",
+          "details": "Podrobnosti o platbe",
+          "select": "Vybrať spôsob platby",
+          "gift_card": "Darčeková karta",
+          "to_review": "Pokračovať k prehľadu",
+          "another_step": "Zobrazí sa ďalší krok"
+        },
+        "review": {
+          "title": "Prehľad",
+          "description": "Kliknutím na tlačidlo Objednať potvrdzujete, že ste si prečítali, porozumeli a súhlasíte s našimi Podmienkami používania, Podmienkami predaja a Politikou vrátenia a potvrdzujete, že ste si prečítali Zásady ochrany osobných údajov Vibe Store.",
+          "place": "Objednať"
+        },
+        "contact": {
+          "title": "Kontakt"
+        },
+        "billings": {
+          "edit": "Upraviť",
+          "label": "Fakturačná adresa",
+          "company": "Spoločnosť",
+          "address_1": "Adresa",
+          "address_2": "Byt, apartmán, atď.",
+          "postal": "PSČ",
+          "city": "Mesto",
+          "province": "Kraj",
+          "no": "Žiadna fakturačná adresa",
+          "to_delivery": "Pokračovať k doručeniu",
+          "same": "Fakturačná a doručovacia adresa sú rovnaké."
+        }
+      },
+      "title": "Účet",
+      "welcome": "Ahoj",
+      "overview": "Prehľad",
+      "signed_as": "Prihlásený ako",
+      "log_out": "Odhlásiť sa",
+      "profile": {
+        "title": "Profil",
+        "description": "Zobraziť a aktualizovať informácie o profile, vrátane vášho mena, emailu a telefónneho čísla. Môžete tiež aktualizovať svoju fakturačnú adresu alebo zmeniť heslo.",
+        "completed": "Dokončené",
+        "edit": "Upraviť",
+        "cancel": "Zrušiť",
+        "update": "úspešne aktualizované",
+        "save": "Uložiť zmeny"
+      },
+      "addresses": {
+        "title": "Adresy",
+        "long_title": "Doručovacie adresy",
+        "description": "Zobraziť a aktualizovať svoje doručovacie adresy, môžete pridať toľko, koľko chcete. Uloženie adries vám ich sprístupní počas pokladne.",
+        "new": "Nová adresa",
+        "edit": "Upraviť",
+        "use_saved": "Ahoj {name}, chceš použiť jednu zo svojich uložených adries?",
+        "choose": "Vybrať adresu"
+      },
+      "orders": {
+        "title": "Nedávne objednávky",
+        "long_title": "Objednávky",
+        "description": "Zobraziť svoje predchádzajúce objednávky a ich stav. Môžete tiež vytvoriť vrátenie alebo výmenu svojich objednávok, ak je to potrebné.",
+        "created_at": "Dátum objednania",
+        "number": "Číslo objednávky",
+        "amount": "Celková suma",
+        "go_to": "Prejsť na objednávku",
+        "no_orders": "Žiadne nedávne objednávky",
+        "no_orders_description": "Ešte nemáte žiadne objednávky, nechajme to zmeniť :)",
+        "continue": "Pokračovať v nákupe",
+        "more": "viac",
+        "see_details": "Zobraziť detaily"
+      },
+      "saved": "Uložené"
+    },
+    "cart": {
+      "title": "Košík",
+      "item": "Položka",
+      "quantity": "Množstvo",
+      "price": "Cena",
+      "total": "Spolu",
+      "empty": "Nemáte nič v košíku. Nechajme to zmeniť, použite nižšie uvedený odkaz na začatie prehľadávania našich produktov.",
+      "explore": "Preskúmať produkty",
+      "summary": {
+        "title": "Prehľad",
+        "free_shipping": "Doprava zdarma",
+        "gift_card": {
+          "title": "Aplikovaná darčeková karta(y)",
+          "code": "Kód",
+          "remove": "Odstrániť darčekovú kartu z objednávky"
+        },
+        "discounts": {
+          "title": "Aplikovaná zľava",
+          "code": "Kód",
+          "remove": "Odstrániť zľavový kód z objednávky"
+        },
+        "multiple_only": "Môžete pridať viacero darčekových kariet, ale iba jeden zľavový kód.",
+        "apply": "Použiť",
+        "enter_code": "Zadať kód",
+        "add_gift_discount": "Pridať darčekovú kartu alebo zľavový kód",
+        "go_to_checkout": "Prejsť na pokladňu",
+        "back_to_cart": "Späť do košíka",
+        "back": "Späť",
+        "in_cart": "Vo vašom košíku"
+      },
+      "not_found": {
+        "title": "Vyskytla sa chyba",
+        "description": "Košík, ktorý ste sa pokúsili otvoriť, neexistuje. Vymažte svoje cookies a skúste to znova.",
+        "go_to_store": "Prejsť na úvodnú stránku"
+      },
+      "back_to_cart": "Späť do košíka"
+    },
+    "order": {
+      "completed": {
+        "title": "Ďakujeme!",
+        "description": "Vaša objednávka bola úspešne zadaná.",
+        "summary": "Prehľad",
+        "details": {
+          "title": "Podrobnosti o potvrdení objednávky sme poslali na ",
+          "date": "Dátum objednávky: ",
+          "number": "Číslo objednávky: ",
+          "status": "Stav objednávky: ",
+          "payment_status": "Stav platby: "
+        },
+        "shipping": {
+          "title": "Doručenie",
+          "address": "Doručovacia adresa",
+          "contact": "Kontakt",
+          "method": "Spôsob doručenia"
+        },
+        "payment": {
+          "title": "Platba",
+          "method": "Spôsob platby",
+          "details": "Podrobnosti o platbe",
+          "at": "o"
+        }
+      }
+    }
+  },
+  "not_found": {
+    "title": "Stránka nenájdená",
+    "description": "Stránka, ktorú ste sa pokúsili otvoriť, neexistuje.",
+    "go_to_home": "Prejsť na úvodnú stránku"
+  },
+  "meta": {
+    "main": {
+      "title": "Vibe",
+      "description": "Každý detail – pre vašu krásu a pohodlie.",
+      "keywords": "Vibe, Obchod, Dámska bielizeň, Korzety, Kategórie, Kolekcie"
+    },
+    "not_found": {
+      "title": "Stránka nenájdená",
+      "description": "Stránka, ktorú ste sa pokúsili otvoriť, neexistuje."
+    },
+    "checkout": {
+      "title": "Pokladňa",
+      "description": ""
+    },
+    "account": {
+      "title": "Účet",
+      "description": "Prehľad vašej aktivity na účte.",
+      "addresses": {
+        "title": "Adresy",
+        "description": "Zobraziť a aktualizovať svoje doručovacie adresy."
+      },
+      "orders": {
+        "title": "Objednávky",
+        "description": "Zobraziť svoje predchádzajúce objednávky a ich stav."
+      }
+    },
+    "profile": {
+      "title": "Profil",
+      "description": "Zobraziť a aktualizovať informácie o profile."
+    },
+    "sign_in": {
+      "title": "Prihlásiť sa",
+      "description": "Prihláste sa pre lepší zážitok."
+    },
+    "cart": {
+      "title": "Košík",
+      "description": "Prehľad vášho nákupného košíka."
+    },
+    "collections": {
+      "title": "Vibe",
+      "description": "kolekcia"
+    },
+    "order": {
+      "title": "Objednávka",
+      "description": "Zobraziť vašu objednávku",
+      "confirmed": {
+        "title": "Objednávka potvrdená",
+        "description": "Váš nákup bol úspešný"
+      }
+    },
+    "search": {
+      "title": "Vyhľadávanie",
+      "description": "Preskúmajte všetky naše produkty."
+    },
+    "store": {
+      "title": "Obchod",
+      "description": "Všetky produkty"
+    }
+  }
+}

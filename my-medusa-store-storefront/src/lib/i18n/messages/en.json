@@ -1,0 +1,385 @@
+{
+  "modules": {
+    "layout": {
+      "store_name": "Vibe",
+      "nav": {
+        "menu": "Menu",
+        "home": "Home",
+        "account": "Account",
+        "cart": "Cart",
+        "store": "Store",
+        "lingerie": "Lingerie",
+        "roots": "Roots",
+        "categories": "Categories",
+        "collections": "Collections",
+        "customer_care": "Customer care",
+        "shipping_to": "Shipping to",
+        "language": {
+          "title": "Language",
+          "en": "English",
+          "sk": "Slovak"
+        },
+        "policy": {
+          "withdrawal_form": "Withdrawal form",
+          "complaint_form": "Complaint form",
+          "complaints_procedure": "Complaints Procedure",
+          "general_terms_and_conditions": "General Terms and Conditions",
+          "principles": "Principles for the processing and protection of Personal Data and information on cookies"
+        },
+        "community": {
+          "title": "Join out community",
+          "description": "Join our social media list for the latest news, early access and exclusives."
+        }
+      },
+      "cart": {
+        "label": "Cart ({amount})",
+        "quantity": "Quantity",
+        "variant": "Variant",
+        "original": "Original",
+        "remove": "Remove",
+        "taxes": "(excl. taxes)",
+        "subtotal": "Subtotal",
+        "go_to_cart": "Go to cart",
+        "is_empty": "Your shopping bag is empty",
+        "go_to_products": "Go to all products page",
+        "explore_products": "Explore products"
+      },
+      "rights": "@ {year} Vibe Store. All rights reserved."
+    },
+    "home": {
+      "title": "A couple of words about us",
+      "subtitle": "Every detail – for your beauty and comfort."
+    },
+    "featured_products": {
+      "popular": "Popular",
+      "all": "See all"
+    },
+    "faq": {
+      "payment_delivery": "Payment & Delivery",
+      "delivery": {
+        "question": "Delivery",
+        "answer": "Delivery of our goods is all over Slovakia and Europe. When paying you can choose a convenient for you transportation company."
+      },
+      "methods_of_payments": {
+        "question": "Methods of payment",
+        "answer": "Payment for our goods is made online via PayPal."
+      },
+      "refund": {
+        "question": "Refund",
+        "answer": "In our store there are no refunds.\nWe offer you beautiful sets of good quality, each set provides a size chart. Before you make an order, control a few times your size, so that then you do not have problems with it. If you have any questions, or are not sure of your size, you can always write on our Instagram page."
+      }
+    },
+    "categories": {
+      "title": "Categories",
+      "all": "See all"
+    },
+    "about": {
+      "title": "We focus on quality and modern trends",
+      "content_1": "Welcome to VIBE, your online destination for women’s lingerie! Here, you’ll find a wide selection of everyday and stylish lingerie designed to provide comfort and confidence at every moment.",
+      "content_2": "At VIBE, we focus on quality and modern trends so you can enjoy feeling exceptional every day. Our team is dedicated to ensuring every detail meets the highest standards. Thank you for choosing VIBE!",
+      "catalog": "See catalog",
+      "subtitle": "Our body is sensitive. It registers every feeling. Be tender with it."
+    },
+    "common": {
+      "cart-totals": {
+        "subtotal": "Subtotal",
+        "tooltip": "Cart total excluding shipping and taxes.",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "taxes": "Taxes",
+        "gift_card": "Gift card",
+        "total": "Total",
+        "select": "Select"
+      },
+      "product": {
+        "tags": "Tags",
+        "dimensions": "Dimensions",
+        "weight": "Weight",
+        "type": "Type",
+        "country_of_origin": "Country of origin",
+        "material": "Material",
+        "size_table": "Size tables",
+        "tabs": {
+          "product_information": "Product Information",
+          "shipping_returns": "Shipping & Returns",
+          "fast_delivery": {
+            "title": "Fast Delivery",
+            "description": "Your package will arrive in 3-5 business days at your pick up location or in the comfort of your home."
+          },
+          "exchanges": {
+            "title": "Simple exchanges",
+            "description": "Is the fit not quite right? No worries - we&apos;ll exchange your product for a new one."
+          }
+        },
+        "select_variant": "Select variant",
+        "out_of_stock": "Out of stock",
+        "add_to_cart": "Add to cart",
+        "select_options": "Select Options",
+        "select": "Select",
+        "from_price": "From",
+        "related_products": {
+          "title": "Related products",
+          "description": "You might also want to check out these products."
+        }
+      }
+    },
+    "store": {
+      "title": "All products",
+      "filter": {
+        "sort": {
+          "title": "Sort by",
+          "created_at": "Latest Arrivals",
+          "price_asc": "Price: Low -> High",
+          "price_desc": "Price: High -> Low"
+        }
+      }
+    },
+    "account": {
+      "sign_in": {
+        "have_account": "Already have an account?",
+        "welcome_back": "Welcome back",
+        "title": "Sign in for a better experience.",
+        "sign_in": "Sign in",
+        "not_member": "Not a member? ",
+        "join_us": "Join is"
+      },
+      "register": {
+        "title": "Become a Vibe Member",
+        "description": "Create your Vibe Store Member profile, and get access to an enhanced shopping experience.",
+        "policy": {
+          "title": "By creating an account, you agree to Vibe Store&apos;s ",
+          "policy": "Privacy Policy",
+          "and": "and",
+          "terms": "Terms of Use"
+        }
+      },
+      "inputs": {
+        "email": {
+          "label": "Email",
+          "title": "Enter a valid email address."
+        },
+        "password": {
+          "label": "Password",
+          "old": "Old password",
+          "new": "New Password",
+          "confirm": "Confirm password"
+        },
+        "first_name": {
+          "label": "First name"
+        },
+        "last_name": {
+          "label": "Last name"
+        },
+        "phone": {
+          "label": "Phone"
+        },
+        "name": {
+          "label": "Name"
+        },
+        "shipping": {
+          "title": "Shipping Address",
+          "delivery": "Delivery",
+          "edit": "Edit",
+          "to_payment": "Continue to payment",
+          "method": "Method"
+        },
+        "payment": {
+          "title": "Payment",
+          "edit": "Edit",
+          "enter_details": "Enter your card details",
+          "method": "Payment method",
+          "details": "Payment details",
+          "select": "Select a payment method",
+          "gift_card": "Gift card",
+          "to_review": "Continue to review",
+          "another_step": "Another step will appear"
+        },
+        "review": {
+          "title": "Review",
+          "description": "By clicking the Place Order button, you confirm that you have read, understand and accept our Terms of Use, Terms of Sale and Returns Policy and acknowledge that you have read Medusa Store&apos;s Privacy Policy.",
+          "place": "Place order"
+        },
+        "contact": {
+          "title": "Contact"
+        },
+        "billings": {
+          "edit": "Edit",
+          "label": "Billing address",
+          "company": "Company",
+          "address_1": "Address",
+          "address_2": "Apartment, suite, etc.",
+          "postal": "Postal code",
+          "city": "City",
+          "province": "Province",
+          "no": "No billing address",
+          "to_delivery": "Continue to delivery",
+          "same": "Billing and delivery address are the same."
+        }
+      },
+      "title": "Account",
+      "welcome": "Hello",
+      "overview": "Overview",
+      "signed_as": "Signed in as",
+      "log_out": "Log out",
+      "profile": {
+        "title": "Profile",
+        "description": "View and update your profile information, including your name, email, and phone number. You can also update your billing address, or change your password.",
+        "completed": "Completed",
+        "edit": "Edit",
+        "cancel": "Cancel",
+        "update": "updated successfully",
+        "save": "Save changes"
+      },
+      "addresses": {
+        "title": "Addresses",
+        "long_title": "Shipping Addresses",
+        "description": "View and update your shipping addresses, you can add as many as you like. Saving your addresses will make them available during checkout.",
+        "new": "New address",
+        "edit": "Edit",
+        "use_saved": "Hi {name}, do you want to use one of your saved addresses?",
+        "choose": "Choose an address"
+      },
+      "orders": {
+        "title": "Recent orders",
+        "long_title": "Orders",
+        "description": "View your previous orders and their status. You can also create returns or exchanges for your orders if needed.",
+        "created_at": "Date placed",
+        "number": "Order number",
+        "amount": "Total amount",
+        "go_to": "Go to order",
+        "no_orders": "No recent orders",
+        "no_orders_description": "You don&apos;t have any orders yet, let us change that :)",
+        "continue": "Continue shopping",
+        "more": "more",
+        "see_details": "See details"
+      },
+      "saved": "Saved"
+    },
+    "cart": {
+      "title": "Cart",
+      "item": "Item",
+      "quantity": "Quantity",
+      "price": "Price",
+      "total": "Total",
+      "empty": "You don&apos;t have anything in your cart. Let&apos;s change that, use the link below to start browsing our products.",
+      "explore": "Explore products",
+      "summary": {
+        "title": "Summary",
+        "free_shipping": "Free shipping",
+        "gift_card": {
+          "title": "Gift card(s) applied",
+          "code": "Code",
+          "remove": "Remove gift card from order"
+        },
+        "discounts": {
+          "title": "Discount applied",
+          "code": "Code",
+          "remove": "Remove discount code from order"
+        },
+        "multiple_only": "You can add multiple gift cards, but only one discount code.",
+        "apply": "Apply",
+        "enter_code": "Enter code",
+        "add_gift_discount": "Add gift card or discount code",
+        "go_to_checkout": "Go to checkout",
+        "in_cart": "In your Cart"
+      },
+      "back_to_cart": "Back to shopping cart",
+      "back": "Back",
+      "not_found": {
+        "title": "There is an error",
+        "description": "The cart you tried to access does not exist. Clear your cookies and try again.",
+        "go_to_store": "Go to frontpage"
+      }
+    },
+    "order": {
+      "completed": {
+        "title": "Thank you!",
+        "description": "Your order was placed successfully.",
+        "summary": "Summary",
+        "details": {
+          "title": "We have sent the order confirmation details to ",
+          "date": "Order date: ",
+          "number": "Order number: ",
+          "status": "Order status: ",
+          "payment_status": "Payment status: "
+        },
+        "shipping": {
+          "title": "Delivery",
+          "address": "Shipping address",
+          "contact": "Contact",
+          "method": "Delivery method"
+        },
+        "payment": {
+          "title": "Payment",
+          "method": "Payment method",
+          "details": "Payment details",
+          "at": "at"
+        }
+      }
+    }
+  },
+  "not_found": {
+    "title": "Page not found",
+    "description": "The page you tried to access does not exist.",
+    "go_to_home": "Go to frontpage"
+  },
+  "meta": {
+    "main": {
+      "title": "Vibe",
+      "description": "Every detail – for your beauty and comfort.",
+      "keywords": "Vibe, Store, Lingerie, Roots, Categories, Collections"
+    },
+    "not_found": {
+      "title": "Page not found",
+      "description": "The page you tried to access does not exist."
+    },
+    "checkout": {
+      "title": "Checkout",
+      "description": ""
+    },
+    "account": {
+      "title": "Account",
+      "description": "Overview of your account activity.",
+      "addresses": {
+        "title": "Addresses",
+        "description": "View and update your shipping addresses."
+      },
+      "orders": {
+        "title": "Orders",
+        "description": "View your previous orders and their status."
+      }
+    },
+    "profile": {
+      "title": "Profile",
+      "description": "View and update your profile information."
+    },
+    "sign_in": {
+      "title": "Sign in",
+      "description": "Sign in for a better experience."
+    },
+    "cart": {
+      "title": "Cart",
+      "description": "Overview of your shopping cart."
+    },
+    "collections": {
+      "title": "Vibe",
+      "description": "collection"
+    },
+    "order": {
+      "title": "Order",
+      "description": "View your order",
+      "confirmed": {
+        "title": "Order confirmed",
+        "description": "You purchase was successful"
+      }
+    },
+    "search": {
+      "title": "Search",
+      "description": "Explore all of our products."
+    },
+    "store": {
+      "title": "Store",
+      "description": "All products"
+    }
+  }
+}
