@@ -167,7 +167,7 @@ const Shipping: React.FC<ShippingProps> = ({
             {cart && cart.shipping_methods.length > 0 && (
               <div className="flex flex-col w-1/3">
                 <Text className="txt-medium-plus text-ui-fg-base mb-1">
-                  <Message name="modules.account.shipping.method"/>
+                  <Message name="modules.order.completed.shipping.method"/>
                 </Text>
                 <Text className="txt-medium text-ui-fg-subtle">
                   {cart.shipping_methods[0].shipping_option.name} (

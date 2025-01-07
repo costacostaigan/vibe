@@ -104,7 +104,7 @@ const Addresses = ({
                 <div className="flex items-start gap-x-1 w-full">
                   <div className="flex flex-col w-1/3" data-testid="shipping-address-summary">
                     <Text className="txt-medium-plus text-ui-fg-base mb-1">
-                      <Message name="modules.account.shipping.title"/>
+                      <Message name="modules.order.completed.shipping.title"/>
                     </Text>
                     <Text className="txt-medium text-ui-fg-subtle">
                       {cart.shipping_address.first_name}{" "}
@@ -125,7 +125,7 @@ const Addresses = ({
 
                   <div className="flex flex-col w-1/3 " data-testid="shipping-contact-summary">
                     <Text className="txt-medium-plus text-ui-fg-base mb-1">
-                      <Message name="modules.account.contact.title"/>
+                      <Message name="modules.order.completed.shipping.contact"/>
                     </Text>
                     <Text className="txt-medium text-ui-fg-subtle">
                       {cart.shipping_address.phone}
